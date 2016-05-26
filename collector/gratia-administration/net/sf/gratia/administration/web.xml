@@ -264,12 +264,6 @@
         <url-pattern>/jobusagerecordreplicationtable.html</url-pattern>
     </servlet-mapping>
 
-
-    <servlet-mapping>
-        <servlet-name>jobusagerecordreplicationtable</servlet-name>
-        <url-pattern>/jobusagerecordreplicationtable.html</url-pattern>
-    </servlet-mapping>
-
     <servlet-mapping>
         <servlet-name>metricrecordreplicationtable</servlet-name>
         <url-pattern>/metricrecordreplicationtable.html</url-pattern>
